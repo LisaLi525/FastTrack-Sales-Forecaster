@@ -1,7 +1,7 @@
 # Sales Forecasting for a Fast Food Chain
 
 ## Overview
-This project aims to forecast monthly sales for a well-known fast food chain using historical sales data. The primary focus is on implementing time series analysis and forecasting techniques to understand sales patterns and predict future trends.
+This project aims to forecast monthly sales for a well-known fast-food chain using historical sales data. The primary focus is on implementing time series analysis and forecasting techniques to understand sales patterns and predict future trends.
 
 ## Data Description
 The analysis uses historical sales data, which includes monthly sales figures, transaction counts, and other relevant metrics. For confidentiality, specific data figures are not disclosed in this documentation.
@@ -28,7 +28,3 @@ The time series analysis and ARIMA modeling provided significant insights into t
 
 ## Future Work
 Further analysis could explore more sophisticated models like SARIMA or Prophet for improved forecasting accuracy. Additionally, external factors such as economic indicators or marketing campaigns could be integrated into the model to examine their impact on sales.
-
----
-
-This README provides a high-level summary of the project without delving into the specifics of the data or the code. It focuses on the methodology, findings, and potential business implications of the analysis.
